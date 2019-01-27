@@ -1,7 +1,7 @@
 # Learning-path
 This is a current list of courses, projects, resources and highlights of my Web Developer learning path.
 
-##Learning
+## Learning
 
 | Status | Course | Tutor | Year | 
 | ------ | ------ |------ |------ |
@@ -11,7 +11,7 @@ This is a current list of courses, projects, resources and highlights of my Web 
 | 🔄 |[The Complete Web Development Bootcamp](https://www.udemy.com/the-complete-web-development-bootcamp/) |[Angela Yu](https://twitter.com/yu_angela) - [Udemy](https://www.udemy.com/) | 2019 |
 
 
-##Resources
+## Resources
 
 | Title | Author | 
 | ------ | ------ |
