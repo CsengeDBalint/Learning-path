@@ -2,6 +2,7 @@
 This is a current list of courses, projects, resources and highlights of my Web Developer learning path.
 
 ##Learning
+
 | Status | Course | Tutor | Year | 
 | ------ | ------ |------ |------ |
 | ✅ |Google Scholarship [Front End Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) | [Udacity](https://eu.udacity.com/) | Jan 2019 |
@@ -11,6 +12,7 @@ This is a current list of courses, projects, resources and highlights of my Web 
 
 
 ##Resources
+
 | Title | Author | 
 | ------ | ------ |
 |[ReactDOM Learn Javascript](https://reactdom.com/javascript) | ReactDOM |
